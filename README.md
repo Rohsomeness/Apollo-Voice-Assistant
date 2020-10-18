@@ -4,7 +4,7 @@ Personal Voice Assistant
 
 Designed to work on a Windows system, so will need many changes to work on Linux or Mac. Will have to edit in in some parts as some parts of the code have been redacted to retain privacy (Look for #REDACTED comments).  
 
-Things to try:
+Things to try:  
         1. "Tell me about ": Opens up a wikipedia link on the topic  
         2. "Search ": Opens up a google query  
         3. "Open ": Opens up a website or a favorite website  
